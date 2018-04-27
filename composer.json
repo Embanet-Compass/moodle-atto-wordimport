@@ -1,0 +1,9 @@
+
+{
+    "name": "embanet-compass/moodle-atto-wordimport",
+    "type": "moodle-atto",
+    "description": "Atto Plugin",
+    "extra": {
+        "installer-name": "wordimport",
+        "moodle": { "package_folder_name" : "wordimport" }
+    }
