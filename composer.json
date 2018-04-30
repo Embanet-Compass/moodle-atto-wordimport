@@ -1,4 +1,3 @@
-
 {
     "name": "embanet-compass/moodle-atto-wordimport",
     "type": "moodle-atto",
@@ -6,4 +5,4 @@
     "extra": {
         "installer-name": "wordimport",
         "moodle": { "package_folder_name" : "wordimport" }
-    }
+}
