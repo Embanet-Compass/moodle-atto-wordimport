@@ -5,4 +5,5 @@
     "extra": {
         "installer-name": "wordimport",
         "moodle": { "package_folder_name" : "wordimport" }
+    }
 }
